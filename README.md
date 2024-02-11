@@ -27,8 +27,7 @@ Linux commands.
 
 * `sudo apt install python3 git`
 
-* `git clone https://github.com/clas33ic`
-
+* `https://github.com/clas33ic/clas33ic.git`
 * `cd clas33ic`
 
 Termux commands.
@@ -39,7 +38,7 @@ Termux commands.
 
 * `pkg install python3 git -y`
 
-* `git clone https://github.com/clas33ic`
+* `https://github.com/clas33ic/clas33ic.git`
 
 * `cd clas33ic`
 
