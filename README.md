@@ -60,4 +60,4 @@ The Cyber-D team and the developers of DxCyberD are not responsible for any ille
 
 
 ## Visiter
-<img src="https://profile-counter.glitch.me/kdo2064/count.svg" alt="Visitors">
+<img src="https://profile-counter.glitch.me/saifulabidin/count.svg" alt="Visitors">
