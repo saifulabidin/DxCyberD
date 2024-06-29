@@ -31,7 +31,7 @@ Linux commands.
 
 * `sudo apt install python3 git`
 
-* `git clone https://github.com/kdo2064/DxCyberD`
+* `git clone https://github.com/saifulabidin/DxCyberD`
 
 * `cd DxCyberD`
 
@@ -43,7 +43,7 @@ Termux commands.
 
 * `pkg install python3 git -y`
 
-* `git clone https://github.com/kdo2064/DxCyberD`
+* `git clone https://github.com/saifulabidin/DxCyberD`
 
 * `cd DxCyberD`
 
